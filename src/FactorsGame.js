@@ -1,4 +1,4 @@
-// Factors Game by Michael P. Nitowski
+
 function FactorsGame(levels, config, storageManager, score, canvas) {
   this.levels = levels;
   this.config = config;
